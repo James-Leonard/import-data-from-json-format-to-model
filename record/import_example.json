@@ -1,0 +1,20 @@
+[
+    {
+       "id": 1,
+       "name": "John",
+       "address":"10 highlevel benue",
+       "phone": "234080837474",
+       "rating": "10",
+       "review":"Good",
+       "description": "This is just a test"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "address":"10 highlevel benue",
+      "phone": "234080837474",
+      "rating": "10",
+      "review":"Good",
+      "description": "This is just a test"
+   }
+ ]
